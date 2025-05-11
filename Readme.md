@@ -10,3 +10,4 @@
 - [Column Transformer Scikit Learn](./04_Column_Transform_Data.ipynb)
 - [Scikit Learn Pipeline](./05_ScikitLearn_Pipeling_Training.ipynb)
 - [Function Transformation](./06_Transformer._Data.ipynb)
+- [Discretization](./07_Binning_Discretization.ipynb)
