@@ -8,3 +8,4 @@
 - [Feature Scaling Standardization & Normalization](./02_Feature_Scaling.ipynb)
 - [Encoding Data: Ordinal, Categorical](./03_Encoding_Data_Columnn.ipynb)
 - [Column Transformer Scikit Learn](./04_Column_Transform_Data.ipynb)
+- [Scikit Learn Pipeline](./05_ScikitLearn_Pipeling_Training.ipynb)
