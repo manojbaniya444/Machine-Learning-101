@@ -11,4 +11,4 @@
 - [Scikit Learn Pipeline](./05_ScikitLearn_Pipeling_Training.ipynb)
 - [Function Transformation](./06_Transformer._Data.ipynb)
 - [Discretization](./07_Binning_Discretization.ipynb)
-- [Mixed Variable](./08_Mixed_Variable.ipynb)
+- [Handling Mixed Variable Data](./08_Mixed_Variable.ipynb)
