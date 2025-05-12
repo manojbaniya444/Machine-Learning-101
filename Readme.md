@@ -13,3 +13,4 @@
 - [Discretization](./07_Binning_Discretization.ipynb)
 - [Handling Mixed Variable Data](./08_Mixed_Variable.ipynb)
 - [Handling Date Time Data](./09_Handling_Date_Time.ipynb)
+- [Handling Missing Data](./10_Handling_Missing_Data.ipynb)
